@@ -1,4 +1,5 @@
-'''
+
+```
 prj.subprj/
 	dat (contains raw data files)
 	doc (descpriptions, notes, presentations posters)
@@ -11,7 +12,8 @@ prj.subprj/
 	Makefile (main file calling all subroutines in src??)
 	readme.md (short description of the project and associated files)
 	todo.md (guess what?)
-'''
+```
+
 explain what each folder is supposed to contain
 inspired by:
 	[projecttemplate](http://projecttemplate.net/gettingstarted.html)
