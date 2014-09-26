@@ -14,7 +14,7 @@ prj.subprj/
 	todo.md (guess what?)
 ```
 
-# inspired by:
+# Inspired by:
 - [R projecttemplate](http://projecttemplate.net/gettingstarted.html)   
 - [R workflow by rh](http://robjhyndman.com/hyndsight/workflow-in-r/)   
 - [makefile by rh](http://robjhyndman.com/hyndsight/makefiles/)
